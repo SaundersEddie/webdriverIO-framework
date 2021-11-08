@@ -1,5 +1,5 @@
 {
-  "name": "webdriverIO-framework",
+  "name": "webdriverio-framework",
   "version": "1.0.0",
   "description": "Testing framework utilizing webdriverIO",
   "main": "index.js",
