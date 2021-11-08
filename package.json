@@ -1,0 +1,28 @@
+{
+  "name": "webdriverIO-framework",
+  "version": "1.0.0",
+  "description": "Testing framework utilizing webdriverIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaundersEddie/webdriverIO-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaundersEddie/webdriverIO-framework/issues"
+  },
+  "homepage": "https://github.com/SaundersEddie/webdriverIO-framework#readme",
+  "devDependencies": {
+    "@wdio/cli": "^7.16.4",
+    "@wdio/local-runner": "^7.16.4",
+    "@wdio/mocha-framework": "^7.16.4",
+    "@wdio/spec-reporter": "^7.16.4",
+    "chromedriver": "^95.0.0",
+    "wdio-chromedriver-service": "^7.2.2"
+  }
+}
